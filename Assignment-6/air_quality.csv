@@ -1,0 +1,11 @@
+city,so2,no2,rspm,spm,pm2_5,type,state
+Mumbai,20,40,100,200,60,RRO,Maharashtra
+Delhi,50,,200,350,120,I,Delhi
+Pune,15,30,90,150,45,RO,Maharashtra
+Chennai,30,35,,180,80,S,Tamil Nadu
+Kolkata,60,70,250,400,150,RRO,West Bengal
+Ahmedabad,25,45,110,210,65,I,Gujarat
+Jaipur,40,55,180,300,,RO,Rajasthan
+Hyderabad,22,38,95,170,50,RRO,Telangana
+Lucknow,48,60,220,330,140,I,Uttar Pradesh
+Bhopal,18,25,85,140,40,S,Madhya Pradesh
